@@ -4,4 +4,12 @@ div{scroll-margin-inline: bc;background-color: aqua;
     
     bac
 background-color: blue;
+table{
+    margin: 16px
+    ;
+    input-security: 2;
+    div{
+        -ms-interpolation-mode: ;
+    }
+}
 }
